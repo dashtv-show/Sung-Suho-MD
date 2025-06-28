@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "suho~46E1xYBK#bGW-9uvHtmWtgiJw5-gYP1l6HRhIaD0tqP0JB97V9MY",
+    SESSION_ID: process.env.SESSION_ID || "suho~pn12FaYQ#Zo1IqxrUSkbIPLEeVmrIGzRZ4AWCNOWP58toK_echyI",
     // add your Session Id make sure it starts with suho~
 
     PREFIX: process.env.PREFIX || "🚩",
@@ -76,7 +76,7 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "18292748112",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "18293511531",
     // add your bot owner number
 
     OWNER_NAME: process.env.OWNER_NAME || "queen",
